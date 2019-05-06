@@ -1,7 +1,7 @@
 # RoboClash
 ROBOCLASH 2019 
 
-motor1 = left wheel
+motor1 = left wheel\n
 motor2 = right wheel
 motor3 = broccoli
 motor4 = lift 
